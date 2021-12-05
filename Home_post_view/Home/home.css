@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+.carousel-control-prev{
+    height: 24px;
+    width: 24px;
+    margin-left: 50px;
+    margin-top: auto;
+}
+.carousel-control-next{
+    height: 24px;
+    width: 24px;
+    margin-right: 50px;
+    margin-top: auto;
+}
